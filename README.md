@@ -7,7 +7,6 @@
 
 ```shell 
 git clone https://github.com/jessica-m-hutchison/dotvim
-npm install && grunt                    ## optional
 git submodule update --init --recursive
 ln -s dotvim/vimrc ~/.vimrc
 ln -s dotvim/vim ~/.vim
