@@ -24,6 +24,11 @@ set nocursorline          " highlight current line
 set wildmenu
 "set lazyredraw
 set showmatch           " higlight matching parenthesis
+" tataglist.vim ui options
+let Tlist_Auto_Open = 1
+"let Tlist_Display_Prototype = 1
+let Tlist_Exit_OnlyWindow = 1
+let Tlist_Use_Right_Window = 1
 " }}}
 " Searching {{{
 set ignorecase          " ignore case when searching
@@ -75,6 +80,7 @@ nnoremap <leader>d :Make!
 nnoremap <leader>r :call RunTestFile()<CR>
 nnoremap <leader>g :call RunGoFile()<CR>
 vnoremap <leader>y "+y
+nnoremap <leader>t :TlistToggle<CR>
 vmap v <Plug>(expand_region_expand)
 vmap <C-v> <Plug>(expand_region_shrink)
 inoremap jk <esc>
@@ -215,3 +221,4 @@ endfunction
 " }}}
 
 " vim:foldmethod=marker:foldlevel=0
+let g:session_autosave = 'no'
