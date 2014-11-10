@@ -235,3 +235,9 @@
 [submodule "vim/vim-pathogen"]
 	path = vim/vim-pathogen
 	url = https://github.com/tpope/vim-pathogen
+[submodule "vim/bundle/snipmate.vim"]
+	path = vim/bundle/snipmate.vim
+	url = https://github.com/msanders/snipmate.vim
+[submodule "vim/bundle/nerdcommenter"]
+	path = vim/bundle/nerdcommenter
+	url = https://github.com/scrooloose/nerdcommenter.git
