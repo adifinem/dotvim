@@ -160,9 +160,6 @@
 [submodule "vim/bundle/cocoa"]
 	path = vim/bundle/cocoa
 	url = https://github.com/msanders/cocoa.vim
-[submodule "vim/bundle/textobj-rubyblock"]
-	path = vim/bundle/textobj-rubyblock
-	url = https://github.com/nelstrom/vim-textobj-rubyblock
 [submodule "vim/bundle/stylus"]
 	path = vim/bundle/stylus
 	url = https://github.com/wavded/vim-stylus
