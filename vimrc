@@ -81,9 +81,12 @@ nnoremap <leader>r :call RunTestFile()<CR>
 nnoremap <leader>g :call RunGoFile()<CR>
 vnoremap <leader>y "+y
 nnoremap <leader>t :TlistToggle<CR>
+nnoremap <leader>n :bn<CR>
+nnoremap <leader>p :bp<CR>
+nnoremap <leader>q :bd<CR>
 vmap v <Plug>(expand_region_expand)
 vmap <C-v> <Plug>(expand_region_shrink)
-inoremap jk <esc>
+inoremap ]] <esc>
 " }}}
 " Powerline {{{
 "set encoding=utf-8
