@@ -1,5 +1,6 @@
 tmp/*
 vim/tmp/*
+vim/sessions
 gh-pages
 *~
 *.swp
