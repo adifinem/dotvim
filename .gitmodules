@@ -55,9 +55,6 @@
 [submodule "vim/bundle/easytags"]
 	path = vim/bundle/easytags
 	url = http://github.com/xolox/vim-easytags
-[submodule "vim/bundle/bufexplorer"]
-	path = vim/bundle/bufexplorer
-	url = https://github.com/vim-scripts/bufexplorer.zip
 [submodule "vim/bundle/open_file_under_cursor.vim"]
 	path = vim/bundle/open_file_under_cursor.vim
 	url = https://github.com/amix/open_file_under_cursor.vim
@@ -238,3 +235,9 @@
 [submodule "vim/bundle/nerdcommenter"]
 	path = vim/bundle/nerdcommenter
 	url = https://github.com/scrooloose/nerdcommenter.git
+[submodule "vim/bundle/svnj.vim"]
+	path = vim/bundle/svnj.vim
+	url = https://github.com/juneedahamed/svnj.vim
+[submodule "vim/bundle/svngutter"]
+	path = vim/bundle/svngutter
+	url = https://github.com/vim-scripts/vim-svngutter
