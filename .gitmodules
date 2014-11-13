@@ -223,9 +223,6 @@
 [submodule "vim/bundle/rogue.vim"]
 	path = vim/bundle/rogue.vim
 	url = https://github.com/katono/rogue.vim
-[submodule "vim/bundle/irblack"]
-	path = vim/bundle/irblack
-	url = github.com:wgibbs/vim-irblack.git
 [submodule "vim/vim-pathogen"]
 	path = vim/vim-pathogen
 	url = https://github.com/tpope/vim-pathogen
