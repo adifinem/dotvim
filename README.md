@@ -23,5 +23,3 @@ or
 grunt update
 ```
 
-This is one submodule of my larger collection of [dotfiles](https://github.com/jessica-m-hutchison/dotfiles).
-
